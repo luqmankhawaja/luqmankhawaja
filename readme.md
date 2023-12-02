@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
 
-<p align="left"> <a href="https://twitter.com/sanikhawaja416" target="blank"><img src="https://img.shields.io/linkedin/follow/sanikhawaja?logo=twitter&style=for-the-badge" alt="sanikhawaja416" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sanikhawaja416" target="blank"><img src="https://img.shields.io/twitter/follow/sanikhawaja416?logo=twitter&style=for-the-badge" alt="sanikhawaja416" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce**
 
