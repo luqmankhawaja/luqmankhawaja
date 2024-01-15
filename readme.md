@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs,Node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanikhawaja](https://github.com/luqmankhawaja)
+- 👨‍💻 All of my projects are available at [https://github.com/luqmankhawaja](https://github.com/luqmankhawaja)
 
 - 💬 Ask me about **Angular, JavaScript, TypeScript, HTML5,CSS3,Bootstrap3**
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanikhawaja416&show_icons=true&locale=en" alt="sanikhawaja416" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanikhawaja416&" alt="sanikhawaja416" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqmankhawaja&" alt="luqmankhawaja" /></p>
