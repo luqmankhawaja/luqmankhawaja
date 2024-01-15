@@ -1,6 +1,6 @@
 ![logo](https://github.com/luqmankhawaja/sanikhawaja416/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Luqman Hakeem</h1>
-<h3 align="center">A passionate frontend web developer from Islamabad, Pakistan</h3>
+<h3 align="center">A passionate web developer from Islamabad, Pakistan</h3>
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs,Node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanikhawaja416](https://github.com/luqmankhawaja)
+- 👨‍💻 All of my projects are available at [https://github.com/sanikhawaja](https://github.com/luqmankhawaja)
 
 - 💬 Ask me about **Angular, JavaScript, TypeScript, HTML5,CSS3,Bootstrap3**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanikhawaja416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanikhawaja416" height="30" width="40" /></a>
+<a href="https://twitter.com/sanikhawaja416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luqmankhawaja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanikhawaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanikhawaja" height="30" width="40" /></a>
 <a href="https://fb.com/luqmanhakeem.khawaja.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luqmanhakeem.khawaja.7" height="30" width="40" /></a>
 <a href="https://instagram.com/sani_khawaja416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sani_khawaja416" height="30" width="40" /></a>
