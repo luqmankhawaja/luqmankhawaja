@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/sanikhawaja416" target="blank"><img src="https://img.shields.io/twitter/follow/sanikhawaja416?logo=twitter&style=for-the-badge" alt="sanikhawaja416" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
-
-- 🌱 I’m currently learning **ReactJs,Node**
+- 🔭 I’m currently working at **TAK Devs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luqmankhawaja](https://github.com/luqmankhawaja)
 
-- 💬 Ask me about **Angular, JavaScript, TypeScript, HTML5,CSS3,Bootstrap3**
+- 💬 Ask me about **Angular, JavaScript, TypeScript, Node JS, HTML5, CSS3, Bootstrap3**
 
 - 📫 How to reach me **luqmanhakeem920@gmail.com**
 
